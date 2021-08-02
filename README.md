@@ -29,7 +29,7 @@ Write a function in Javascript that takes two integer parameters `x1` and `x2` r
 
 ### 2. Multiplications table
 
-Write a function that writes in the console or browser the multiplication table (from 1 to 10)
+Write a function that writes in the console or browser the multiplication table (from 1 to 10) 
 
 ![multiplication](./multiplication-table.png?raw=true)
 
