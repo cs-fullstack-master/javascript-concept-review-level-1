@@ -25,7 +25,7 @@ Before you type ANY CODE, write out your steps to solve each exercise in each fi
 
 ### 1. Integer Numbers Range
 
-Write a function in Javascript that takes two integer parameters `x1` and `x2` returns all the integers between them. If `x2` es lower than `x1` it should return -1. Provide appropriate User feedback.
+Write a function in Javascript that takes two integer parameters `x1` and `x2` returns all the integers between them. If `x2` is lower than `x1` it should return -1. Provide appropriate User feedback.
 
 ### 2. Multiplications table
 
