@@ -36,7 +36,7 @@ Write a function that writes in the console or browser the multiplication table 
 
 ### 3. Multiplications table on demand
 
-Write a function that writes in the console or browser a multiplication table (in one column) of any number passed as parameter.
+Write a function that writes in the console or browser a multiplication table (in one column) of any number passed as parameter. Only go from 1 to 10 times the number passed in.
 
 ### 4. Calculations and Operators
 
